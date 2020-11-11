@@ -1,5 +1,5 @@
 hub AraTha_ONT_mitochondrial_RNA
 shortLabel Ath_mito
 longLabel AraTha_ONT_mitochondrial_RNA sequencing
-genomesFile genomes.txt
+genomesFile genome.txt
 email swzhang_1996@126.com
