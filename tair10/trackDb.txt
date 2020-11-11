@@ -1,0 +1,5 @@
+track ath_ONT_mito
+bigDataUrl https://github.com/swZhang1/tair10/blob/main/mod1.bed
+shortLabel ath_ONT_mito
+longLabel ath_ONT_mito
+type bed 
