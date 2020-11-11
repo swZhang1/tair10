@@ -1,0 +1,2 @@
+genome tair10
+trackDb tair10/trackDb.txt
