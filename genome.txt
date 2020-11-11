@@ -1,2 +1,2 @@
-genome tair10
+genome hub_79622_araTha1
 trackDb tair10/trackDb.txt
